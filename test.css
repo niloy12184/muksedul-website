@@ -4,7 +4,28 @@
 }
 .menu-container{
     background-color: rgb(42, 42, 44);
+    padding: 10px 10px;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 .logo-make{
-    width: 100px;
+    width: 150px;
+ 
+}
+
+.menus{
+    color: aliceblue;
+    display: flex;
+    
+}
+.item {
+    margin-left: 20px;
+    font-size: 1.400em;
+    cursor: pointer;
+   
+}
+.item:hover{
+    color: rgb(42, 243, 1);
 }
