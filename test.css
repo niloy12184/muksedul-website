@@ -1,3 +1,10 @@
 *{
-   
+   margin: 0px;
+   padding: 0px;
+}
+.menu-container{
+    background-color: rgb(42, 42, 44);
+}
+.logo-make{
+    width: 100px;
 }
